@@ -53,6 +53,7 @@ AC_CONFIG_FILES([Makefile \
 		 tests/Makefile \
 		 doc/Makefile \
                  doc/Doxyfile \
+		 po/Makefile \
 		 libconfuse.pc \
 		 libconfuse.spec])
 AC_OUTPUT
