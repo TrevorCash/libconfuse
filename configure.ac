@@ -50,7 +50,6 @@ AM_CONDITIONAL(WINDOWS_BUILD, [test "x$ac_cv_header_windows_h" = "xyes"])
 AC_CONFIG_FILES([Makefile \
 		 src/Makefile \
 		 examples/Makefile \
-                 po/Makefile.in \
 		 m4/Makefile \
 		 tests/Makefile \
 		 doc/Makefile \
